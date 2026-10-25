@@ -1,0 +1,921 @@
+[
+  {
+    "id": "pg21-001",
+    "passage_sha256": "e7abcebc18bf913bd356f66764e55116bf147b3be06f61384a6e3f544093ab58",
+    "summary": "A Wolf invents accusations against a Lamb to justify eating him. The Lamb refutes each charge, explaining he was not alive last year and has neither grazed nor drunk from the Wolf’s pasture and well. The Wolf eats him anyway, showing a tyrant will find a pretext.",
+    "headline": "Wolf Eats the Lamb",
+    "essential_facts": [
+      "The Lamb disproves the Wolf’s accusations.",
+      "The Wolf eats him despite the rebuttals."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-003",
+    "passage_sha256": "1856ebd30f73a4279d9834039eb733a2b8530703da661bf3ed038866f4665a7f",
+    "summary": "A Wolf with a bone stuck in his throat hires a Crane to remove it, promising payment. After she succeeds, he refuses to pay and claims she should be grateful she escaped his jaws unharmed. The fable warns that serving the wicked brings no reward.",
+    "headline": "The Wolf and the Crane",
+    "essential_facts": [
+      "The Crane removes a bone from the Wolf’s throat.",
+      "The Wolf withholds the promised payment."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-005",
+    "passage_sha256": "164edc6e62991db97a59542b5edeab64c6b56c897d0ed095808d41b0025ed337",
+    "summary": "A Bat caught by a Weasel escapes by claiming to be a mouse, since the Weasel hates birds. Caught later by another Weasel that hates mice, the Bat says it is a bat, not a mouse, and is released again. It survives by adapting its claim to the circumstances.",
+    "headline": "The Resourceful Bat",
+    "essential_facts": [
+      "The Bat claims to be a mouse to escape a bird-hating Weasel.",
+      "It claims to be a bat to escape a mouse-hating Weasel."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-006",
+    "passage_sha256": "5dabb675447759ddfb6da071ab9feac7a12a70a418953adb7aebb350465954f1",
+    "summary": "A Cock scratching for food finds a precious jewel. He observes that its owner might value and restore it, but it is useless to him; he would rather have a single barleycorn than all the jewels. The story contrasts the jewel’s value to others with the Cock’s practical need for food.",
+    "headline": "The Cock and the Jewel",
+    "essential_facts": [
+      "The Cock finds a precious stone while seeking food.",
+      "He prefers one barleycorn to all the jewels."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-008",
+    "passage_sha256": "9173774f4c7864a0e43fec5062f04f768668540544998f70d86dbe78e359a4e0",
+    "summary": "A just and gentle Lion king calls a gathering and establishes a league promising peace among natural enemies, including Wolf and Lamb. A Hare rejoices that the weak can now safely stand beside the strong, then runs for his life. The ending undercuts the promised security.",
+    "headline": "The Kingdom of the Lion",
+    "essential_facts": [
+      "The Lion proposes peace among traditionally opposed animals.",
+      "The Hare celebrates, then runs for his life."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-009",
+    "passage_sha256": "d0ef1a6ad1accd4f6250f80f478fc797b41ae08742a7a6784baa6d275c54411f",
+    "summary": "A traveler sees his Dog stretching by the door and scolds him for delaying the journey. The Dog replies that he is ready and has been waiting for his master. The traveler, not the Dog, is the one holding things up.",
+    "headline": "The Traveler and His Dog",
+    "essential_facts": [
+      "The traveler blames his Dog for delaying departure.",
+      "The Dog says he is waiting for the traveler."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-010",
+    "passage_sha256": "3c67fb0afed4d3bcaa573d82be073a6b65e8dc29338fad0cb1166bf28a25477d",
+    "summary": "In winter, Ants dry grain gathered in summer. A starving Grasshopper asks them for food and explains he spent summer singing rather than storing provisions. The Ants mock him and say he must go supperless; his failure to prepare leaves him hungry.",
+    "headline": "The Ants and the Grasshopper",
+    "essential_facts": [
+      "The Grasshopper spent summer singing instead of storing food.",
+      "He begs the Ants for food in winter and is refused."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-011",
+    "passage_sha256": "86849e0316f97c68f8ab717c2527a45a309f7fc909205f7de150f5a842d17802",
+    "summary": "A Hare mocks the Tortoise’s short feet and slow pace, but accepts her challenge to race. While the Tortoise continues steadily, the Hare lies down and falls asleep. He wakes too late: the Tortoise has reached the goal and is resting there.",
+    "headline": "The Hare and the Tortoise",
+    "essential_facts": [
+      "The Hare sleeps during the race.",
+      "The steady Tortoise reaches the goal first."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-012",
+    "passage_sha256": "572a10da639186f46516244344fe6e0c3ddbadd69cc2b168a16b09db61fcdcf9",
+    "summary": "A Charcoal-Burner invites his Fuller friend to live with him, arguing that they would be better neighbors and save on housekeeping. The Fuller declines because the Charcoal-Burner’s work would blacken whatever he whitened. Their occupations make the proposed arrangement incompatible.",
+    "headline": "The Charcoal-Burner and the Fuller",
+    "essential_facts": [
+      "The Charcoal-Burner invites the Fuller to share his home.",
+      "The Fuller fears charcoal would undo his whitening work."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-014",
+    "passage_sha256": "f3c6acbda5fe191ce20296bd87452ab0fe6fd482a15bbeae70eadad5097be72b",
+    "summary": "A musical Fisherman plays his flute by the shore, hoping fish will dance into his net, but none come. He puts away the flute and casts the net, making an excellent catch. Seeing fish leap in it, he chides them for dancing only after he stopped playing.",
+    "headline": "The Fisherman Piping",
+    "essential_facts": [
+      "The fish do not enter the net while he plays.",
+      "Casting the net earns the Fisherman an excellent catch."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-015",
+    "passage_sha256": "e24a05de9571b48d12863b8b89aad1f94bb4fd9b6051033be0b0864f580f66a5",
+    "summary": "A Dog carrying meat across a bridge sees his reflection in the stream and mistakes it for another dog with a larger piece. He drops his own meat to seize the imagined prize. The reflection is only a shadow, and the current carries away his actual food too.",
+    "headline": "The Dog and the Shadow",
+    "essential_facts": [
+      "The Dog mistakes his reflection for a rival with more meat.",
+      "He loses his own meat when he drops it into the stream."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-016",
+    "passage_sha256": "f01115287927155b7fed9474a9d5f93e9d658488aecb04887f2a09bd55a7353f",
+    "summary": "A Carter’s wagon sinks into a rut, and he stands helplessly calling on Hercules. Hercules appears and tells him to put his shoulder to the wheels and urge on the bullocks. He must first do his best to help himself rather than merely pray for aid.",
+    "headline": "Hercules and the Wagoner",
+    "essential_facts": [
+      "The Carter calls for help instead of acting.",
+      "Hercules tells him to push the wagon and urge the bullocks."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-017",
+    "passage_sha256": "f8dec7f4af451b9d280dfcec1afbc036a00d2a872788b445236cbaafab640a45",
+    "summary": "A young Mole claims to his Mother that he can see. She tests him with frankincense, asking what it is; he calls it a pebble. His Mother concludes that he is not only blind but has also lost his sense of smell.",
+    "headline": "The Mole and His Mother",
+    "essential_facts": [
+      "The Mole claims he can see.",
+      "He mistakes frankincense for a pebble and fails to smell it."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-018",
+    "passage_sha256": "cf8d0dd3e47aa508540b9bea83d78e05ab7cd6394dbdf0a91fe0853e37f00f28",
+    "summary": "A Herdsman loses a Bull-calf and vows offerings to the forest deities if he finds the thief. He soon sees a Lion eating the calf. Terrified, he changes his offer, saying he would give a full-grown Bull as well if he could escape safely.",
+    "headline": "The Herdsman and the Lost Bull",
+    "essential_facts": [
+      "The Herdsman discovers a Lion eating his lost calf.",
+      "He fears the Lion and offers more for his own escape."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-019",
+    "passage_sha256": "6ca6e54b39639fbbb860320c2a0e5389431d9e64cc93533a123c0ab79940b233",
+    "summary": "A Fawn asks why his larger, faster, horned Mother fears hounds. She agrees that she has those advantages, but says even a single bark makes her feel faint and flee. The fable concludes that arguments cannot give courage to a coward.",
+    "headline": "The Fawn and His Mother",
+    "essential_facts": [
+      "The Mother acknowledges her physical advantages.",
+      "Hearing a dog bark makes her flee in fear."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-020",
+    "passage_sha256": "4e50a93522a2d6dce3a544008521bba4fa894a2a0976e55cb8607ac7a17e358b",
+    "summary": "An Ass and Fox partner for protection while hunting, but encounter a Lion. The Fox bargains to deliver the Ass in exchange for his own safety, then tricks his companion into a pit. Once the Ass is trapped, the Lion seizes the Fox and attacks the Ass at leisure.",
+    "headline": "The Ass, the Fox, and the Lion",
+    "essential_facts": [
+      "The Fox betrays the Ass to bargain with the Lion.",
+      "The Lion captures the Fox and attacks the trapped Ass."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-021",
+    "passage_sha256": "84107c77b1249e0dd4c4376f32cbb0ae0a356dfeca4964e5fa7e879c11f1db60",
+    "summary": "Flies greedily feed from an overturned honey jar, but honey coats their feet and prevents them from flying free. They are trapped and suffocate, regretting that a little pleasure has destroyed them. Their indulgence has brought a fatal cost.",
+    "headline": "The Flies and the Honey-Pot",
+    "essential_facts": [
+      "Honey traps the feeding Flies and disables their wings.",
+      "They suffocate, regretting their pursuit of pleasure."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-022",
+    "passage_sha256": "f0aaaa5cfcbd255cafd87dbabf2629620cc10ec7ed2156482a3370f5c0e3340b",
+    "summary": "Beasts dispute which animal deserves most credit for producing the greatest number of young and ask the Lioness how many she has. She says she has only one, but that it is a thoroughbred Lion. The exchange values quality over quantity.",
+    "headline": "The Lioness",
+    "essential_facts": [
+      "The Lioness has only one cub.",
+      "She says her cub is a thoroughbred Lion."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-023",
+    "passage_sha256": "5ec2b7dd89bd725fabdcbc8e4a285c18f1bc83e92c8772927f7b63e65170ed9b",
+    "summary": "A Farmer finds a frozen Snake in winter, takes pity on it, and warms it in his bosom. Revived, the Snake bites him mortally. As he dies, the Farmer says he is rightly served for showing pity to a scoundrel; kindness cannot reform the ungrateful.",
+    "headline": "The Farmer and the Snake",
+    "essential_facts": [
+      "The Farmer warms a frozen Snake out of compassion.",
+      "The revived Snake bites him mortally."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-024",
+    "passage_sha256": "978b104f87494100375e0dd0739ba27d9cb7a25937cdffe78b9b1732a50a3d6e",
+    "summary": "A Man and a Lion argue about which is stronger when they pass a statue showing a Man strangling a Lion. The Man cites it as proof of human superiority. The Lion replies that humans made the statue, and a Lion-made one would show the reverse.",
+    "headline": "The Man and the Lion",
+    "essential_facts": [
+      "The Man uses a statue of a strangled Lion as evidence.",
+      "The Lion notes that men created the statue."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-028",
+    "passage_sha256": "df5dacd573af68757f62a162eb1ae414796b624f183654e5fd1479b00f6967a5",
+    "summary": "A Bear boasts that he respects people so much he will not touch even a dead human body. A Fox answers that he would rather the Bear ate the dead than the living. The retort exposes the Bear’s supposed philanthropy as a threat to living people.",
+    "headline": "The Bear and the Fox",
+    "essential_facts": [
+      "The Bear boasts he will not touch human corpses.",
+      "The Fox wishes he would eat the dead rather than the living."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-029",
+    "passage_sha256": "03b12751cb7700c2b5f6575a2022768e7fc0b31cd6a0a26cb61c2558a7cf9e1d",
+    "summary": "A Tortoise complains that no one will teach her to fly, and an Eagle offers to carry her aloft for a promised reward. The Eagle takes her near the clouds and drops her; she crashes on a mountain and dies, recognizing her desire for wings and clouds was ill-suited to her nature.",
+    "headline": "The Tortoise and the Eagle",
+    "essential_facts": [
+      "The Eagle carries the Tortoise aloft and drops her.",
+      "She crashes on a mountain and dies."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-031",
+    "passage_sha256": "37abed77c4b239ba066c999f0883dee0b7e8583101211f75fceec574c156d1b4",
+    "summary": "A Raven envies a Swan’s white plumage and assumes water made it so. He leaves his usual food-gathering near altars to live at lakes and pools, washing repeatedly, but his feathers remain unchanged. Lacking food, he dies; changing habits cannot change his nature.",
+    "headline": "The Raven and the Swan",
+    "essential_facts": [
+      "The Raven washes to imitate the Swan’s white plumage.",
+      "His color does not change, and he dies for lack of food."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-032",
+    "passage_sha256": "25e0faf5bb526ba765801d56432e8e9a08844ad3d4ead4ced732c7f14b09da53",
+    "summary": "A thirsty Pigeon mistakes a painted goblet of water on a signboard for real water and flies into it. The collision badly injures her and breaks her wings; she falls and is caught by a bystander. Her eagerness outruns caution.",
+    "headline": "The Thirsty Pigeon",
+    "essential_facts": [
+      "The Pigeon mistakes painted water for real water.",
+      "She strikes the sign, breaks her wings, and is caught."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-034",
+    "passage_sha256": "c19400400fc3973acea8f808aac8c4f8eaa4adff3ad6f4ea48f73aed70b35379",
+    "summary": "A wagon is pulled by Oxen while its Axle-trees groan and creak. The Oxen turn to the wheels and protest that they bear all the labor, so the wheels have no reason to cry out. Those doing the hardest work complain the least.",
+    "headline": "The Oxen and the Axle-Trees",
+    "essential_facts": [
+      "The Oxen pull the heavy wagon.",
+      "They complain that the creaking wheels bear none of the labor."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-036",
+    "passage_sha256": "94d06e0cf7c0097c600133d1d7a415f2be6eb317b146fee7350997cb74b43d67",
+    "summary": "An old, infirm Lion pretends to be sick so beasts will visit his den, where he devours them. A Fox notices many tracks leading in but none returning and refuses the Lion’s invitation to enter. Heeding others’ misfortunes keeps the Fox from sharing their fate.",
+    "headline": "The Sick Lion",
+    "essential_facts": [
+      "The Lion feigns illness to lure and devour visitors.",
+      "The Fox sees tracks entering but none leaving and stays outside."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-037",
+    "passage_sha256": "5d0cac6c35e70fe3130fcce998c42597ef520e08ee2d0c51f7ba61ae04a4548c",
+    "summary": "Two travelers meet a Bear. One climbs a tree and hides, while the other lies still and pretends to be dead; the Bear sniffs him and leaves, believing he is dead. The first traveler asks what the Bear whispered, and his companion advises never to travel with a friend who deserts you in danger.",
+    "headline": "The Bear and the Two Travelers",
+    "essential_facts": [
+      "One traveler abandons the other by climbing a tree.",
+      "The remaining man feigns death and survives."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-038",
+    "passage_sha256": "c7a181a082fa7da978baaa3d775b2061d1433ab0e5d6b4665a6884ec7f7f3f85",
+    "summary": "A Fox escapes a trap but loses his tail and feels ashamed. Hoping to hide his loss, he advises other Foxes to cut off their tails, claiming they look better and are less encumbered. One Fox points out that he would not recommend it if he had not lost his own.",
+    "headline": "The Fox Who Had Lost His Tail",
+    "essential_facts": [
+      "The tailless Fox urges others to cut off their tails.",
+      "Another Fox recognizes his advice comes from his own loss."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-039",
+    "passage_sha256": "4b1bda218751f00c7affe70c5522039133bef3aa21f9b73baecc29ea0bd2c014",
+    "summary": "A Cat catches a Cock and seeks an excuse to eat him, accusing him of crowing at night and disturbing people. The Cock says his crowing helps people rise in time for work. The Cat dismisses the defense and eats him anyway, having decided not to go supperless.",
+    "headline": "The Cat and the Cock",
+    "essential_facts": [
+      "The Cat accuses the Cock of disturbing people at night.",
+      "The Cat rejects the Cock’s defense and eats him."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-041",
+    "passage_sha256": "d2011f06dd6f1690e275ced50937aa41465166ca61542fc0f1d233b015274ec4",
+    "summary": "A Goatherd tries in vain to call a stray Goat back, then throws a stone and breaks its horn. He begs the Goat not to tell his master, but the Goat points out that the broken horn will reveal what happened even if it stays silent. The damage cannot be concealed.",
+    "headline": "The Goat and the Goatherd",
+    "essential_facts": [
+      "The Goatherd breaks the stray Goat’s horn with a stone.",
+      "The Goat says the broken horn will expose what happened."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-042",
+    "passage_sha256": "b5328c08404829fe6b225a13993a38d6e601835e8c4df86bcdd438f86aa9e569",
+    "summary": "A traveler boasts of heroic feats abroad, including an extraordinary leap in Rhodes, and claims witnesses can verify it. A bystander says witnesses are unnecessary if it is true and challenges him to leap there and then. His boast is tested by asking him to demonstrate it.",
+    "headline": "The Boasting Traveler",
+    "essential_facts": [
+      "The traveler boasts of a great leap in Rhodes.",
+      "A bystander challenges him to leap on the spot."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-043",
+    "passage_sha256": "86377d83c194eb83bbd855e3c12c984308dc67ba605122abe3df85146e6bdaac",
+    "summary": "A Lion seeks to marry a woodcutter’s daughter. Afraid to refuse, the father agrees only if the Lion lets him remove his teeth and claws because they frighten her. The Lion complies, but when he returns powerless, the Woodman drives him away with a club.",
+    "headline": "The Lion in Love",
+    "essential_facts": [
+      "The Lion allows his teeth and claws to be removed.",
+      "The Woodman then drives him away with a club."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-044",
+    "passage_sha256": "2821b186fa2373ade5f37f4ce0b30aec7411951ca08a17bd840bc9e81a348ce7",
+    "summary": "A Miser sells everything to buy gold, which he buries and visits daily without using it. A workman discovers and steals it, and the Miser laments the empty hole. A neighbor says he could put a stone there and imagine it is gold, since the real gold served him no more than a stone while buried.",
+    "headline": "The Miser",
+    "essential_facts": [
+      "The Miser buries gold and never uses it.",
+      "A workman steals it; a neighbor notes it served no practical purpose."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-045",
+    "passage_sha256": "e27773ad13322751543c60bce60cafb9c206c8fc8f2b2a6142ea7e4c3d0ab08a",
+    "summary": "A young Pig is seized by the shepherd and squeals and struggles, while a Goat and Sheep complain that they are handled without making such noise. The Pig explains that they are taken for wool or milk, but he is being taken for his life. Their fates are different.",
+    "headline": "The Porker, the Sheep, and the Goat",
+    "essential_facts": [
+      "The Pig struggles when the shepherd grabs him.",
+      "He says he is being taken for his life, unlike the others."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-046",
+    "passage_sha256": "c28cde3b6fff2bd3ca2504deb5ecb8af3161874f7b97d10e00c583b2e157b45f",
+    "summary": "A Boy grabs as many filberts as possible from a pitcher but cannot pull his hand through its narrow neck while holding them. He cries over the predicament until a bystander advises him to take half, which will let him withdraw his hand. Taking too much prevents him from getting any out.",
+    "headline": "The Boy and the Filberts",
+    "essential_facts": [
+      "The Boy’s full handful cannot pass through the pitcher neck.",
+      "A bystander advises taking half to free his hand."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-047",
+    "passage_sha256": "908a39e3467f41216ba905cc4727f16978b2f90380f7661df355d3e4cc83bd3e",
+    "summary": "Frogs ask Jupiter for a king, and he drops a motionless log into their lake. Once they lose their fear, they mock it and demand another ruler; Jupiter gives them an easygoing Eel, but they complain again. Angered, he sends a Heron, which preys on them until none remain.",
+    "headline": "The Frogs Asking for a King",
+    "essential_facts": [
+      "The Frogs reject the log and Eel as rulers and ask repeatedly for another.",
+      "Jupiter sends a Heron that preys on them until none remain."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-049",
+    "passage_sha256": "f56169a591977690eb85ab2f59e76161059595afdb9be242d3a02e625d2eb23d",
+    "summary": "A Mouse runs over a sleeping Lion’s mane and ears, waking him. The Lion angrily searches his den for the Mouse, and a Fox mocks him for being frightened. The Lion says he resents the Mouse’s familiarity and bad manners, not fear of it.",
+    "headline": "The Lion, the Mouse, and the Fox",
+    "essential_facts": [
+      "A Mouse wakes the sleeping Lion by running over him.",
+      "The Lion says he resents the Mouse’s familiarity, not fears it."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-053",
+    "passage_sha256": "2f11764ae9cb1ed0440fb270b50e8ed1c29bee003c7cb1711ea2d7670c8c4fbc",
+    "summary": "Oxen plan to destroy the Butchers and sharpen their horns. An old Ox argues that although Butchers kill them, they do so skillfully and with little unnecessary pain; without them, less skilled operators may cause greater suffering. Humans will still want beef, so the change could worsen their fate.",
+    "headline": "The Oxen and the Butchers",
+    "essential_facts": [
+      "An old Ox warns the Butchers kill skillfully and with little unnecessary pain.",
+      "He fears worse treatment from unskilled operators if they are gone."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-054",
+    "passage_sha256": "c96634b9c16e57721b5d8526597e9e0611f7db9e10b00b8bddd72a82b221b2e1",
+    "summary": "A Shepherd-boy repeatedly cries “Wolf!” as a prank, bringing villagers who find no danger and are laughed at. When a Wolf truly attacks, the boy calls desperately, but no one comes. The Wolf destroys the flock, as the boy’s earlier lies have made his truthful warning unbelievable.",
+    "headline": "The Shepherd’s Boy and the Wolf",
+    "essential_facts": [
+      "The boy repeatedly gives false wolf alarms.",
+      "When a Wolf really comes, villagers ignore him and the flock is destroyed."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-056",
+    "passage_sha256": "ebdee59c3f146359056ebdef3741a43c362d4e8f5b98e981e1e20419763c277c",
+    "summary": "A Peddler’s Ass carrying salt falls in a stream, and the salt dissolves, lightening the load. The Ass deliberately repeats the trick after the Peddler reloads him, so the Peddler switches to sponges. When the Ass falls again, the sponges soak up water and become heavier, doubling his burden.",
+    "headline": "The Salt Merchant and His Ass",
+    "essential_facts": [
+      "The Ass deliberately falls to lighten a load of salt.",
+      "The Peddler loads sponges instead, which grow heavier when soaked."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-057",
+    "passage_sha256": "2de602b138498067428b498b9f1e59bc31003b772a4e3f4525df77fd8c45d68d",
+    "summary": "A dog once bit people without warning, so his master hung a bell on him. The dog mistook the warning bell for a badge of honor and paraded proudly through the marketplace. An old hound explained that it signaled disgrace and warned others to avoid his bad manners.",
+    "headline": "The Dog’s Warning Bell",
+    "essential_facts": [
+      "The dog secretly bit people he met.",
+      "His master put a bell on him to signal his presence.",
+      "An old hound says the bell marks disgrace, not merit."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-059",
+    "passage_sha256": "e34f373314815220057a1d76585ff0f4c3b01d9d10c84b46d2b2a079823fc7bd",
+    "summary": "A gray-haired man courted a younger and an older woman. The older woman pulled out his black hairs because she was embarrassed to court someone younger, while the younger removed his gray hairs to avoid marrying an old man. Between them, he soon lost every hair.",
+    "headline": "The Man and His Sweethearts",
+    "essential_facts": [
+      "Two women of different ages courted the same middle-aged man.",
+      "Each removed the hairs she disliked.",
+      "Their combined efforts left him bald."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-060",
+    "passage_sha256": "9e2b7a04c5633482b7d521693a0a2d2e558c040f81c6a64c34b3a055ef0d25c5",
+    "summary": "A sick stag lay in a quiet part of its pasture, and many companions came to visit. Each visitor ate some of the food set aside for the stag. The food ran out, and the stag died not from his illness but from being deprived of sustenance.",
+    "headline": "The Sick Stag’s Visitors",
+    "essential_facts": [
+      "Companions visited a sick stag.",
+      "Each ate food meant for the stag.",
+      "He died when his food supply was depleted."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-061",
+    "passage_sha256": "5bec8be6668046f5da7e63e3d748ddde3116ecaf4c98d5df22c85cfb7c060166",
+    "summary": "A boy stung by a nettle told his mother he had touched it gently. She explained that this was why it stung, and advised him to grasp it boldly next time, saying it would then feel soft rather than hurt him.",
+    "headline": "The Boy and the Nettle",
+    "essential_facts": [
+      "A boy was stung after gently touching a nettle.",
+      "His mother advised grasping it boldly.",
+      "The lesson urges wholehearted action."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-062",
+    "passage_sha256": "27dcb77fadee5bdc681bf3b8547900f6b7111694764779e586d7f7e3c2dbddc7",
+    "summary": "An astronomer walking at night with his eyes fixed on the stars fell into a deep well. As he cried out with bruises and begged for help, a neighbor came and asked why he tried to inspect heaven without managing to see what was on earth.",
+    "headline": "The Astronomer in the Well",
+    "essential_facts": [
+      "The astronomer watched the stars while walking.",
+      "He fell into a deep well and called for help.",
+      "A neighbor admonished him to attend to earthly things."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-063",
+    "passage_sha256": "76bfb62a91dd7e90fac7d3ee702bf69e64677272aa8dcd7221540fa91e26d336",
+    "summary": "Wolves persuaded the sheep that their dogs caused the conflict and promised peace if the dogs were dismissed. The sheep believed them and sent the dogs away. With the flock unguarded, the wolves destroyed it at will.",
+    "headline": "The Wolves Deceive the Sheep",
+    "essential_facts": [
+      "Wolves blamed the sheepdogs for the conflict.",
+      "The sheep dismissed their protectors.",
+      "The wolves then destroyed the unguarded flock."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-064",
+    "passage_sha256": "8ae6730d38485ac5584a9e008139504db812f861ca56366a77deda23288f0110",
+    "summary": "A cat dressed as a physician and carried instruments to visit birds said to be ill in an aviary. He offered to prescribe and cure them, but the birds replied that they were well and would remain so if he would leave them alone.",
+    "headline": "The Cat as Physician",
+    "essential_facts": [
+      "The cat disguised himself as a doctor to visit ailing birds.",
+      "He offered to treat them.",
+      "They said they were well and wanted him to go away."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-065",
+    "passage_sha256": "fa5dfdefd822f7318c97fe7853323418587ab1a7cfcf93d747e5f59dc264978f",
+    "summary": "When Jupiter announced a contest to choose the most beautiful bird as king, an ugly jackdaw gathered and wore other birds’ fallen feathers. Jupiter was ready to choose him, but the birds protested and plucked away their feathers, leaving him just a jackdaw.",
+    "headline": "The Jackdaw’s Borrowed Feathers",
+    "essential_facts": [
+      "The jackdaw decorated himself with other birds’ feathers.",
+      "Jupiter considered him for king based on his plumage.",
+      "The birds reclaimed their feathers, exposing him."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-066",
+    "passage_sha256": "a332d56e136ec69ec0b8869f63fe213ebab711aa0984e4f829be2ec29794311d",
+    "summary": "A kid safely standing on a roof taunted a passing wolf. The wolf answered that he heard the insults, but the kid’s safety and mockery came not from his own power; it was the roof beneath him that enabled them.",
+    "headline": "The Kid on the Roof",
+    "essential_facts": [
+      "A kid taunted a wolf from a roof.",
+      "The wolf said the roof, not the kid, gave him advantage."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-068",
+    "passage_sha256": "8d357f694e7da5139db90bafba4ee6de3debe4e1e8785a58ced778c88922971c",
+    "summary": "An ox crushed a froglet while drinking at a pool. The mother frog tried to puff herself up to match the huge beast, but her son warned her that she would burst before she could imitate its size.",
+    "headline": "The Ox and the Frog",
+    "essential_facts": [
+      "An ox accidentally crushed a young frog.",
+      "The mother tried to inflate herself to match the ox.",
+      "Her son warned she would burst trying."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-069",
+    "passage_sha256": "53f7c4aa531afd48b1e169097e1c068134d622f3a21b48c765ddb74a4be48932",
+    "summary": "A dying father told his sons that treasure lay hidden in their vineyard. After he died, they dug carefully throughout the land but found no treasure. Their labor nevertheless brought an exceptionally abundant crop from the vines.",
+    "headline": "The Farmer’s Hidden Treasure",
+    "essential_facts": [
+      "A father told his sons treasure was hidden in a vineyard.",
+      "They dug over all the land after his death.",
+      "Though no treasure appeared, the vines yielded abundantly."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-071",
+    "passage_sha256": "631c3d6f9750ddca66c68d68f6dbcc3ef18756a634b44e3f13c218ac968c6cd8",
+    "summary": "Two cocks fought for control of the farmyard. The loser hid, while the victor climbed a wall and crowed proudly; an eagle swooped down and carried him away. The defeated cock then emerged and ruled unchallenged.",
+    "headline": "The Fighting Cocks and the Eagle",
+    "essential_facts": [
+      "The victorious cock crowed proudly from a wall.",
+      "An eagle seized him.",
+      "The defeated cock then ruled the farmyard."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-072",
+    "passage_sha256": "7a66f7966cb19b63cefae9a216266707e7da9faf5e0b3c0e8e610c507483065b",
+    "summary": "An aged charger was sent to work in a mill instead of going to battle and mourned the loss of his former fine treatment. The miller told him not to dwell on the past, since people must endure fortune’s changes and reversals.",
+    "headline": "The Charger in the Mill",
+    "essential_facts": [
+      "An old charger was sent to work in a mill.",
+      "He recalled his former life in battle and its comforts.",
+      "The miller reminded him that fortune changes."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-073",
+    "passage_sha256": "45f16b2c8b165a5e70695a723b6c587ad36fbf2dd4245fe1608ca9390e720f8d",
+    "summary": "A monkey’s dancing pleased the beasts, who made him king. A jealous fox led him to meat in a trap, claiming it was a royal treasure. The monkey was caught, and when he accused her, she questioned how someone so foolish could rule the beasts.",
+    "headline": "The Fox Traps the Monkey",
+    "essential_facts": [
+      "The beasts elected a dancing monkey as king.",
+      "The fox lured him to meat in a trap.",
+      "After his capture, she mocked his fitness to rule."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-074",
+    "passage_sha256": "95bce66151ea0c5c9bc06ce127a996917766be87beba133e6222b391b3321b4b",
+    "summary": "A soldier carefully fed and treated his charger during war, but afterward gave him chaff and forced him to haul wood. When war returned, the horse collapsed under the armor and rider, saying neglect had changed him into an ass unable to resume his former role instantly.",
+    "headline": "The Neglected Charger",
+    "essential_facts": [
+      "The soldier cared for his charger during war but neglected him afterward.",
+      "He later loaded the horse with armor and mounted him for war.",
+      "The weakened horse collapsed and could not bear the burden."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-075",
+    "passage_sha256": "c40d66fe1256e0d8f69bc12333fcb5a43cf7449c65036c23bf9266ea948662b9",
+    "summary": "The body’s members rebelled against the belly, complaining that they worked while it rested. They stopped helping it, but the whole body soon weakened. The hands, feet, mouth, and eyes regretted their decision too late.",
+    "headline": "The Members and the Belly",
+    "essential_facts": [
+      "The body’s members refused to serve the belly.",
+      "The whole body quickly became weak.",
+      "The members regretted their rebellion."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-077",
+    "passage_sha256": "e55bdca3fc5d150309aaeac3d50548d4f1ca39221597080beec38cbe3d8d0635",
+    "summary": "A goat nibbled the leaves and tendrils of a flourishing vine. The vine protested that grass was available and warned that its own grapes would eventually make wine poured over the goat when he was taken for sacrifice.",
+    "headline": "The Vine and the Goat",
+    "essential_facts": [
+      "A goat ate the vine’s leaves and tendrils.",
+      "The vine protested and warned of future revenge.",
+      "It would provide wine poured over the goat at sacrifice."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-078",
+    "passage_sha256": "4fd307a4cc3ede695c37e91fa223e0a16ee774b11f2051eafbf910c8e24d0504",
+    "summary": "Jupiter invited the beasts to present their offspring for a beauty prize. A monkey tenderly brought her unattractive young one, prompting general laughter. She said she did not know whether Jupiter would award him the prize, but to her he was dearest and most beautiful.",
+    "headline": "The Monkey’s Beloved Offspring",
+    "essential_facts": [
+      "Jupiter offered a reward for the most beautiful offspring.",
+      "The monkey presented her ill-featured young one.",
+      "She cherished him as the most beautiful in her eyes."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-079",
+    "passage_sha256": "97c6f371d6cae48d2e135d5350af925f1ebdd0bcc391f7068037e4bb1f9356c2",
+    "summary": "Terrified by a kite, pigeons asked a hawk to defend them. Once admitted into their cote, the hawk killed more pigeons in one day than the kite could catch in a year.",
+    "headline": "The Hawk and the Pigeons",
+    "essential_facts": [
+      "Pigeons enlisted a hawk against a kite.",
+      "The hawk killed many more pigeons than the kite had.",
+      "Their chosen remedy proved worse than the threat."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-080",
+    "passage_sha256": "1b9bd7696439a42f7d4da1347f582f883fff44dff3ffc442af58b699a26fc0be",
+    "summary": "Dolphins and whales were fighting fiercely when a sprat offered to mediate their dispute. A dolphin rejected the offer, saying they would rather be destroyed fighting than accept interference from so small a creature.",
+    "headline": "The Sprat’s Offer",
+    "essential_facts": [
+      "Dolphins and whales fought a fierce war.",
+      "A sprat offered to reconcile them as umpire.",
+      "A dolphin rejected the sprat’s interference."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-081",
+    "passage_sha256": "b0f84fa450357af20eeff43209c2b57f46e0a32821bb8b8581b65f45d349b60b",
+    "summary": "A swallow nested in a court’s wall and hatched seven young. A serpent emerged from a hole in the wall and ate the unfledged nestlings. Finding the nest empty, the swallow lamented that she alone suffered wrong in a place where others’ rights were protected.",
+    "headline": "The Swallow at Court",
+    "essential_facts": [
+      "A swallow raised seven young in a court wall.",
+      "A serpent ate the nestlings.",
+      "The swallow lamented suffering wrong in a court of justice."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-082",
+    "passage_sha256": "7974b1a4a61847d93314bb56bd4485705f303be66e1f2b72a853cf3dba5f3bcc",
+    "summary": "A river carried along an earthenware pot and a brass pot. Fearing that even a slight collision would shatter it, the earthenware pot asked the brass one to keep away, saying it did not want to approach it.",
+    "headline": "The Two Pots",
+    "essential_facts": [
+      "A river carried an earthenware pot and a brass pot.",
+      "The earthenware pot feared being broken by contact.",
+      "It asked the brass pot to keep its distance."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-083",
+    "passage_sha256": "eee3e0ad799255f041bb289a566b176e3fbdb0421cb2d03f8dfa5bce3246737a",
+    "summary": "A shepherd raised a wolf cub and taught it to steal lambs from neighboring flocks. The wolf proved an apt pupil, then warned the shepherd that since he had taught it theft, he should watch carefully or lose some of his own flock.",
+    "headline": "The Shepherd’s Wolf",
+    "essential_facts": [
+      "A shepherd raised and trained a wolf cub to steal lambs.",
+      "The wolf learned readily.",
+      "It warned the shepherd his own flock might be stolen."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-084",
+    "passage_sha256": "5ae9a48831f1c786469eb7502d59acbf840ec06bf9c19217464e3a08e4240e5e",
+    "summary": "A mother crab criticized her son for walking sideways and told him to go straight. He asked her to demonstrate the proper way, promising to follow it. She tried in vain and had to accept his reproach.",
+    "headline": "The Crab and Its Mother",
+    "essential_facts": [
+      "The mother crab told her son to walk straight.",
+      "He asked her to show him how.",
+      "She could not do so and accepted his reproof."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-085",
+    "passage_sha256": "f885ab99e61ce95e13677986862ef0650e17c07bcc72af6cb0fb0e7a089ea8aa",
+    "summary": "A father visited one daughter, married to a gardener, who wished for rain to water the plants. Her sister, married to a tile-maker, wanted hot, dry weather to dry bricks. The father wondered how he could wish for both when their needs opposed each other.",
+    "headline": "The Father’s Two Daughters",
+    "essential_facts": [
+      "The gardener’s wife wished for rain.",
+      "The tile-maker’s wife wished for continued dry, sunny weather.",
+      "Their father could not support both opposing wishes."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-086",
+    "passage_sha256": "88402fa1c375b4d8687ac65addeb5f0538ea53a238ea5047f788c8d0f36d2b1a",
+    "summary": "A boy stole a schoolmate’s lesson-book and his mother praised him; she praised him again when he brought home a stolen cloak. As an adult he became a serious thief and was sentenced to execution. He blamed his mother’s early encouragement, saying correction at the first theft might have prevented his fate.",
+    "headline": "The Thief and His Mother",
+    "essential_facts": [
+      "The mother praised her son’s first theft and later thefts.",
+      "He grew into a thief and was sentenced to execution.",
+      "He said early correction might have prevented his fate."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-088",
+    "passage_sha256": "946474e1bf4d0439a1db5902d78078b87202930df4473a478346846f87d77e60",
+    "summary": "A fir-tree boasted to a bramble that it was useful for roofs and houses while the bramble was useless. The bramble replied that the axes and saws destined to cut the fir might make it wish it had grown as a bramble.",
+    "headline": "The Fir-Tree and the Bramble",
+    "essential_facts": [
+      "The fir-tree boasted of its usefulness for buildings.",
+      "The bramble pointed to the axes and saws awaiting it.",
+      "The bramble suggested safety might be preferable to status."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-090",
+    "passage_sha256": "9252845e6d65bf18624b71ee659bdeb7288f8bc8c4fe56edcc1aa61c6cab0f66",
+    "summary": "A mischievous frog tied a land-dwelling mouse’s foot to its own and dragged it from a meadow into a pool, where the mouse drowned. A hawk seized the mouse’s floating body and carried off the still-attached frog too, then ate it.",
+    "headline": "The Mouse, Frog, and Hawk",
+    "essential_facts": [
+      "The frog tied the mouse to itself and dragged it into water.",
+      "The mouse drowned.",
+      "A hawk captured both the mouse and attached frog."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-091",
+    "passage_sha256": "1d1d9d221429db7237fdfbc1a746682f00e6fb3b5b75505d3bee2ebf4e9bff80",
+    "summary": "A fisherman made a successful cast and caught many fish. By skillfully handling his net, he kept all the large fish and brought them to shore, while the small ones escaped through the mesh back into the sea.",
+    "headline": "The Fisherman and His Nets",
+    "essential_facts": [
+      "The fisherman caught a large haul.",
+      "He retained the large fish in his net.",
+      "Small fish slipped through the meshes into the sea."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-092",
+    "passage_sha256": "bfe9c40db7cd1e350dc0cb4edbc748b97d90f76b2368af94a5b1e07e3c88cc3e",
+    "summary": "A wounded, hungry wolf asked a passing sheep to bring water from a nearby stream, promising to find food afterward. The sheep saw through the offer and replied that if he brought the drink, the wolf would surely make him provide the meat as well.",
+    "headline": "The Wolf and the Sheep",
+    "essential_facts": [
+      "A wounded wolf asked a sheep for water.",
+      "He promised to find food after drinking.",
+      "The sheep suspected it would become the wolf’s meal."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-093",
+    "passage_sha256": "c739c331ce6a8de94e90886868a58e79bcb3586dd1d707d754e8c5f7ec24ae20",
+    "summary": "An old woman found an empty jar that had held fine old wine and still smelled fragrant. She repeatedly inhaled its scent and remarked that the wine itself must have been delicious to leave such a pleasing perfume in its vessel.",
+    "headline": "The Old Woman and the Wine Jar",
+    "essential_facts": [
+      "The woman found an empty jar that had held fine wine.",
+      "Its fragrance remained.",
+      "She inferred that the wine must have been delicious."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-095",
+    "passage_sha256": "cc3595d732e46c886da8d4d4139068d42133818c4015cd59d2f5b92cc5221eb4",
+    "summary": "A huntsman and fisherman met while returning with their day’s catch and agreed to exchange game for fish. Each enjoyed the bargain, so they repeated it for some time. A neighbor warned that frequent exchanges would soon dull their pleasure and make each want his own catch again.",
+    "headline": "The Huntsman and the Fisherman",
+    "essential_facts": [
+      "The huntsman and fisherman exchanged game and fish.",
+      "They repeated the mutually pleasing bargain.",
+      "A neighbor warned repetition would lessen its enjoyment."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-096",
+    "passage_sha256": "3d804fd6b2bbfbe1608892791c92e88d36e40e9221d2a07dd18969ef4f98ab15",
+    "summary": "A crow perched in a tree with stolen meat in her beak. A fox praised her beauty and suggested her voice would make her queen of birds; eager to disprove the slight, she cawed and dropped the meat. The fox took it and said her wit was lacking.",
+    "headline": "The Fox and the Crow",
+    "essential_facts": [
+      "The crow held stolen meat in her beak.",
+      "The fox flattered her to make her caw.",
+      "She dropped the meat, which the fox took."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-098",
+    "passage_sha256": "6b485d915b5d2b67e4f84c5a98ceb0480909f7695de4364d6969c6aaf70df29a",
+    "summary": "An ass climbed onto a building’s roof, frisked about, and broke the tiles. The owner drove him down and beat him. The ass protested that he had seen a monkey do the same thing the day before while everyone laughed.",
+    "headline": "The Playful Ass",
+    "essential_facts": [
+      "The ass broke roof tiles while playing.",
+      "His owner drove him down and beat him.",
+      "The ass noted that a monkey’s similar behavior had amused people."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-100",
+    "passage_sha256": "9cb21839efdb744a44865a67b7692aff207bc7e976ce7d04ac4df8da772284a0",
+    "summary": "A man kept a hunting hound and a house dog, but shared hunting spoils with the house dog. The hound protested that he did the work, while the house dog said the master—not he—was responsible for teaching him dependence rather than hunting.",
+    "headline": "The Two Dogs",
+    "essential_facts": [
+      "The hound hunted while the house dog guarded the home.",
+      "The master shared hunting spoils with the house dog.",
+      "The house dog blamed the master for his lack of hunting work."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-101",
+    "passage_sha256": "33bf4f47be78e8e9658ae6a261066cf21e0fd2ca178b6dbe9b89da00527bb3f2",
+    "summary": "A lion and wild ass allied to hunt, combining the lion’s strength with the ass’s speed. Afterward the lion divided the prey into three shares, claiming one as king and another as partner, then demanded the third under threat.",
+    "headline": "The Lion’s Three Shares",
+    "essential_facts": [
+      "The lion and wild ass allied to hunt using strength and speed.",
+      "The lion divided the prey into three shares.",
+      "He claimed two shares and threatened the ass over the third."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-102",
+    "passage_sha256": "6e32b753a2d9441a9edc2d0f3c58e5d8ef36e7532b69d43684d94af77ea9d984",
+    "summary": "A lion by the shore persuaded a dolphin to ally with him, arguing that the land’s king and ocean’s ruler should be friends. Later the lion called for help fighting a bull, but the dolphin could not reach land. The dolphin said nature, not betrayal, made assistance impossible.",
+    "headline": "The Lion and the Dolphin",
+    "essential_facts": [
+      "The lion and dolphin formed an alliance.",
+      "The dolphin could not reach land to help fight a bull.",
+      "He explained that nature prevented him from assisting."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-103",
+    "passage_sha256": "e1c81963ccf89331af308907c61938a2d534bb6aea2e4c1292ecbfa495b6e327",
+    "summary": "An eagle watching a hare was mortally wounded by an archer. Looking at the arrow in his heart, he recognized that its feathers came from his own wings and lamented that he was dying by means of his own feathers.",
+    "headline": "The Eagle and the Arrow",
+    "essential_facts": [
+      "An archer mortally wounded an eagle watching a hare.",
+      "The arrow’s feathers came from the eagle’s own wings.",
+      "The eagle grieved that his own feathers helped bring his death."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-104",
+    "passage_sha256": "e6055c90b74da3e11a5c6f66b51c49fb608076e17f7fae3fd40b083ad604ed50",
+    "summary": "A dying kite asked his mother to invoke the gods to prolong his life. She asked which god would pity him, since he had offended them all by stealing portions of the sacrifices offered on their altars.",
+    "headline": "The Sick Kite",
+    "essential_facts": [
+      "The dying kite asked his mother to seek divine help.",
+      "She said he had stolen offerings from the gods’ altars.",
+      "She questioned why any god would pity him."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  },
+  {
+    "id": "pg21-105",
+    "passage_sha256": "3beb1eca87fb1d03e40619691c46d47f373e07eba54c7e383842e14b6c4bde48",
+    "summary": "A lion and boar arrived at a small well during a hot summer day and fought over who would drink first. Pausing to catch their breath, they noticed vultures waiting to eat whichever fell. They ended their quarrel, preferring friendship to becoming carrion.",
+    "headline": "The Lion and the Boar",
+    "essential_facts": [
+      "A lion and boar fought over access to a well.",
+      "Vultures waited for one to fall.",
+      "They made peace rather than become food for scavengers."
+    ],
+    "author_model": "openai-codex/gpt-6-luna"
+  }
+]
